@@ -6,6 +6,14 @@
     <head>
         <title>Falling Sakura leaves</title>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+          <style>
+body {
+  background-image: url('https://images4.alphacoders.com/107/thumbbig-1079550.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
         <style>
             @-webkit-keyframes fall {
                 0% {
