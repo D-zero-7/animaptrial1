@@ -6,6 +6,8 @@ html {
 body {
 	margin: 0;
 	background-image: url("https://images4.alphacoders.com/107/thumbbig-1079550.webp");
+  background-repeat: no-repeat;
+  background-size: auto;
  background-color: #cccccc;
 	
 }
