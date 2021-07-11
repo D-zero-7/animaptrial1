@@ -445,7 +445,7 @@ body {
                     var defaults = {
                         blowAnimations: ['blow-soft-left', 'blow-medium-left', 'blow-soft-right', 'blow-medium-right'],
                         className: 'sakura',
-                        fallSpeed: 1,
+                        fallSpeed: 3,
                         maxSize: 14,
                         minSize: 10,
                         newOn: 300,
